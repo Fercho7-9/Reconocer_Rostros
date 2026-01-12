@@ -1,0 +1,37 @@
+[
+  {
+    "nombre": "Eddy",
+    "codigo_utpl": "1105423001",
+    "descripcion": "Estudiante de Computación - 4to Ciclo",
+    "encoding": [-0.124, 0.058, 0.087],
+    "ruta_foto": "C:/Users/Fernando/Desktop/Funda.IA/fotos/eddy.png"
+  },
+  {
+    "nombre": "Marco",
+    "codigo_utpl": "1105423002",
+    "descripcion": "Principe de la sirenita",
+    "encoding": [-0.082, 0.142, -0.015],
+    "ruta_foto": "C:/Users/Fernando/Desktop/Funda.IA/fotos/marco.png"
+  },
+  {
+    "nombre": "Edison",
+    "codigo_utpl": "1105423003",
+    "descripcion": "Delegado de Curso",
+    "encoding": [0.051, -0.110, 0.033],
+    "ruta_foto": "C:/Users/Fernando/Desktop/Funda.IA/fotos/edison.png"
+  },
+  {
+    "nombre": "Jose",
+    "codigo_utpl": "1105423004",
+    "descripcion": "Pasante de Investigación",
+    "encoding": [-0.014, 0.095, 0.122],
+    "ruta_foto": "C:/Users/Fernando/Desktop/Funda.IA/fotos/jose.png"
+  },
+  {
+    "nombre": "Jean",
+    "codigo_utpl": "1105423005",
+    "descripcion": "Muy Cruceta, Demasiado Cruceta",
+    "encoding": [-0.014, 0.095, 0.122],
+    "ruta_foto": "C:/Users/Fernando/Desktop/Funda.IA/fotos/jean.png"
+  }
+]
